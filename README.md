@@ -30,6 +30,7 @@ Identify and describe at least three key milestones in the evolution of software
 1. The creation of the first programming languages, such as Assembly languages, Fotran(1957), and COBOL (1959).These languages allowed for the abstraction of machine code, making it easier to write and maintain software.
    Fortran was particularly influential in scientific computing,while COBOL was widely used in business applications.
 
+
 2.Introduction of structured programming concepts by Edsger Dijkistra,emphasizing the use of control stuctures like loops, conditionals and subroutines.Structured programming improved code readability,maintainability, and
   reduced the complexity of programs,laying the groundwork for modern programming practices.
 
